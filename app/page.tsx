@@ -321,7 +321,7 @@ export default function Home() {
                   onClick={handleYes}
                   style={{ transform: `scale(${yesScale})` }}
                 >
-                  Yes, always 🥰
+                  Yes 🥰
                 </button>
               </div>
 
